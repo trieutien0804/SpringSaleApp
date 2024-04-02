@@ -1,4 +1,5 @@
 com\nntt\configs\WebAppContextConfig.class
+com\nntt\repositories\impl\ProductRepositoryImpl.class
 com\nntt\pojo\Comment_.class
 com\nntt\repositories\impl\CategoryRepositoryImpl.class
 com\nntt\pojo\Product.class
@@ -6,7 +7,9 @@ com\nntt\pojo\SaleOrder.class
 com\nntt\controllers\IndexController.class
 com\nntt\configs\DispatcherServeletInit.class
 com\nntt\pojo\ProdTag.class
+com\nntt\repositories\ProductRepository.class
 com\nntt\pojo\Category.class
+com\nntt\services\impl\ProductServiceImpl.class
 com\nntt\pojo\User_.class
 com\nntt\services\CategoryService.class
 com\nntt\pojo\SaleOrder_.class
@@ -17,6 +20,7 @@ com\nntt\pojo\Tag.class
 com\nntt\pojo\User.class
 com\nntt\repositories\CategoryRepository.class
 com\nntt\pojo\OrderDetail.class
+com\nntt\services\ProductService.class
 com\nntt\pojo\Comment.class
 com\nntt\pojo\Category_.class
 com\nntt\services\impl\CategoryServiceImpl.class
